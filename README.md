@@ -17,7 +17,7 @@ population dynamics.
 **Credits**
 
 This simulation relies on the Apache Commons Mathematics library (Apache
-license), the JGraphT library for its Fibonacci heap implementation LGPL
+license), the JGraphT library for its Fibonacci heap implementation (LGPL
 and EPL licenses), JUnit (EPL), and Hamcrest (BSD license). All are
 included as jar files in the `lib` directory.
 
