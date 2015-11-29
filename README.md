@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/cinquin/StoCySim.svg?branch=master)](https://travis-ci.org/cinquin/StoCySim)
+
+**General notes**
+
 This is a simple stochastic simulation to illustrate how an entity switching
 stochastically between "on" and "off" states leads to noise in the total
 amount of time that has been spent in the "on" state (the context is worm
